@@ -3,16 +3,8 @@
   margin: 0;
 }
 
-.practice__btn {
-  width: 200px;
-  padding: 10px 0;
-  color: #fff;
-  border-radius: 30px;
-  background:linear-gradient(90deg,#ff5800,#8b00be)
-  text-align: center;
-  box-shadow: 0 5px 0 rgba(255, 0, 0, 0.2);
-  margin: 100px auto;
+.page__img {
+  width: 100px;
+  height: 100px;
+  text-align: right;
 }
-
-
-
